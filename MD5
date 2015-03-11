@@ -1,10 +1,10 @@
-aa2135bd762d9042ac3e9a85692abefd *DESCRIPTION
+dad472156f2c315bf0902171dce98fe4 *DESCRIPTION
 967428a649cfc0ee4fde711604fbd161 *LICENSE
 7f79e566677065b8dc2067e1032a5428 *NAMESPACE
 fbcbafba7669f949a74755ae52b59d4d *R/blat_install.R
-b41e51379656a0cd671ea78224f3d4c6 *R/blatr.R
-88966e77566f571d045a4744c372e4ed *man/blat.Rd
+7d0298a62c84adc765802d397c9ad65e *R/blatr.R
+e8bfea8907a204a08f57e754d6fa42f5 *man/blat.Rd
 47088dbf6d8bbb58d34834a0480f5cdb *man/blat_files.Rd
-0d39e025b1c3faa6542b1f676b6d684b *man/blatr.Rd
+e7b74d9840f4a618104c194a5d84afdf *man/blatr.Rd
 a57332f32601d01b90e5c97a9cf0f9fc *man/check_install.Rd
 55bee980fbb36238ee34dd36206d8bbb *man/install_blat.Rd
